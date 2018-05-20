@@ -1,7 +1,8 @@
 # starbase-router
 
-> A Vue.js project
+> A Vue.js project using vue-router
 
+> Aplication will show information about star wars characters and planets. Data provided from third party api - https://swapi.co
 ## Build Setup
 
 ``` bash

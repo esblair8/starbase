@@ -1,5 +1,5 @@
 //AXIOS CALLS TO BACKEND GO HERE
-
+//CURRENTLY NOT BEING USED
 import axios from 'axios'
 
 export default (function(){
